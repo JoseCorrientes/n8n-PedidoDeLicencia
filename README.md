@@ -12,7 +12,7 @@ El flujo obtiene de una db postgres en Neon Tech los datos del empleado. Primero
 -Segundo si hay 7 dias de preaviso entre la fecha actual y el inicio de la licencia por vacaciones. Sino informa un error por email al empleado.
 -Verifica en base a los datos tomados de la db si el empleado tiene los dias disponibles para las Vacaciones pedidas. Sino informa un error por email al empleado.
 
--Solicita a travez de discord a RRHH que autorice o no la licencia por Vacaciones.
+-Solicita a traves de discord a RRHH que autorice o no la licencia por Vacaciones.
 -Espera la respuesta con un nodo wait.
 
     -Si RRHH desaprueba se informa un error por email al empleado.
@@ -28,7 +28,7 @@ El flujo obtiene de una db postgres en Neon Tech los datos del empleado. Primero
 -Segundo si hay 7 dias de preaviso entre la fecha actual y el inicio de la licencia por enfermedad. Sino informa un error por email al empleado.
 -Verifica en base a los datos tomados de la db si el empleado tiene los dias disponibles por Enfermedad pedidos. Sino informa un error por email al empleado.
 
--Solicita a travez de discord a RRHH que autorice o no la licencia por Enfermedad.
+-Solicita a traves de discord a RRHH que autorice o no la licencia por Enfermedad.
 -Espera la respuesta con un nodo wait.
 
     -Si RRHH desaprueba se informa un error por email al empleado.
