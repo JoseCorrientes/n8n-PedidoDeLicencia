@@ -1,4 +1,4 @@
-# Flujo de n8n. 
+# Flujo de n8n para Pedido de Licencia x Enfermedad o Vacaciones usando n8n Forms. 
 
 Este flujo n8n automatiza desde una entrada que es un n8n form.
 Toma un pedido de un empleado que pide una licencia, ya sea por enfermedad o por Vacaciones para una fecha de inicio y una fecha de retorno determinadas.
